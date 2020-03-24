@@ -1,0 +1,2 @@
+Einfaches System, um Benutzern Entscheidungen zu geben und diese Auszuwerten: ✓?
+Musik-Erzeugung durch Console.Beep(): ✓
